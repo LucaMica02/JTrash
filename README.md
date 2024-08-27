@@ -46,4 +46,5 @@ The Observer-Observable pattern is employed to manage real-time updates and feed
   - Navigate to the project directory: cd path/to/JTrash
   - Execute the Game: java -cp bin JTrash.JTrash
 
+## Conclusion
 **Have fun and enjoy playing the game! 🎉🃏**
