@@ -39,9 +39,11 @@ The Observer-Observable pattern is employed to manage real-time updates and feed
 ## Installation
 
 1. **Clone the Repository**
-  git clone https://github.com/yourusername/JTrash.git
+  git clone https://github.com/LucaMica02/JTrash.git
 2. **Install JDK**
   Ensure you have JDK version 17 or later installed. Download it from the official Java website.
 3. **Run The Project**
   - Navigate to the project directory: cd path/to/JTrash
   - Execute the Game: java -cp bin JTrash.JTrash
+
+**Have fun and enjoy playing the game! 🎉🃏**
