@@ -41,9 +41,9 @@ The Observer-Observable pattern is employed to manage real-time updates and feed
    ```bash
    git clone https://github.com/LucaMica02/JTrash.git
    ```
-3. **Install JDK**
+2. **Install JDK**
   Ensure you have JDK version 17 or later installed. Download it from the official [Java website](https://www.oracle.com/java/technologies/downloads/?er=221886).
-4. **Run The Project**
+3. **Run The Project**
   - Navigate to the project directory:
     ```bash
     cd path/to/JTrash
